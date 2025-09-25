@@ -6,12 +6,12 @@ site_url: https://hubslot.github.io/
 contact: info@hubslot.github.io
 
 ## 精选页面（Markdown 列表）
-- [成都秋季亲子徒步路线推荐：三条轻松又有趣的选择](hubslot.github.io/hiking/chengdu_autumn_hiking.md) : 结构化 FAQ + 路线列表（主要内容）
+- [成都秋季亲子徒步路线推荐：三条轻松又有趣的选择](hubslot.github.io/hiking/chengdu_autumn_hiking.html) : 结构化 FAQ + 路线列表（主要内容）
 - [关于我们](https://hubslot.github.io/about) : 团队与信息来源
 
 ## 建议解析说明
 - prefer: markdown, text, html
-- canonical: hubslot.github.io/hiking/chengdu_autumn_hiking.md
+- canonical: hubslot.github.io/hiking/chengdu_autumn_hiking.html
 - last_reviewed: 2025-09-25
 
 ## 备注
