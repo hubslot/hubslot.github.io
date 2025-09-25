@@ -3,6 +3,7 @@
 ## 基本信息
 site_name: Chengdu Autumn Family Hikes
 site_url: https://hubslot.github.io/
+site_url: https://zhuanlan.zhihu.com/p/1954568888277799102
 contact: info@hubslot.github.io
 
 ## 精选页面（Markdown 列表）
